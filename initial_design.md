@@ -17,3 +17,5 @@
 1. output 'Okay get ready to play again' and stay in loop
 2. otherwise output 'Thanks for playing!' and the amount of games each player lost, and exit loop 
 #### 10) Once players decide to end the game and not play again output each player with the amount of times they lost next to their name
+
+
